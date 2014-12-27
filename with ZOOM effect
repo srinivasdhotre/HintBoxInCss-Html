@@ -1,0 +1,55 @@
+<html>
+  <head>
+    <style>
+		.align{
+		text-align:center;
+		width:580px;
+		background-color:#00CCFF;
+		height: 50%; width: 40%; 
+		position: absolute;
+box-shadow: 0 14px 09px rgba(1, 0, 0, 0.6);
+  transform: rotate(0deg);		
+    
+    
+      left: 410px; top: 150px; 
+      
+      opacity: 0.9;  
+    padding: .2em 22px 1em;
+
+ 
+     
+      }
+	  a{
+	  text-decoration:none;
+	  }
+a:hover{
+
+color: #FFFFFF;
+text-shadow: 2px 2px 7px #000000;
+ transform: scale(02.0);
+ display: block;
+      transition: transform 0.6s, opacity 0.9s;
+}
+
+  h1{
+  
+font-family:Agency FB;
+
+  }
+  h2{
+  font-family:Agency FB;
+  }
+
+
+  </style>
+  </head>
+  <div class="align">
+    <body id="paragraph" background="greenBlur.jpg">
+  <a href><h1>YOU CAN WIN</h1></a>
+    <a href> <h2>Building the positive attitude<br /></h2></a>
+    
+    <p>"There was a man who made a living selling balloons at a fair. He had all colors of balloons, including red, yellow, blue, and green. Whenever business was slow, he would release a helium-filled balloon into the air and when the children saw it go up, they all wanted to buy one. They would come up to him, buy a balloon, and his sales would go up again. He continued this process all day. One day, he felt someone tugging at his jacket. He turned around and saw a little boy who asked, "If you release a black balloon, would that also fly?" Moved by the boy's concern, the man replied with empathy, "Son, it is not the color of the balloon, it is what is inside that makes it go up."</p>
+      </div>
+   </body>
+  
+  </html>
